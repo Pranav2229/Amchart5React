@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amchart5React/static/css/main.2281906d.css",
+    "main.js": "/Amchart5React/static/js/main.16c95124.js",
+    "static/js/787.d86e3883.chunk.js": "/Amchart5React/static/js/787.d86e3883.chunk.js",
+    "index.html": "/Amchart5React/index.html",
+    "main.2281906d.css.map": "/Amchart5React/static/css/main.2281906d.css.map",
+    "main.16c95124.js.map": "/Amchart5React/static/js/main.16c95124.js.map",
+    "787.d86e3883.chunk.js.map": "/Amchart5React/static/js/787.d86e3883.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2281906d.css",
+    "static/js/main.16c95124.js"
+  ]
+}
